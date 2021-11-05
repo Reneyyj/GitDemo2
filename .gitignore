@@ -47,5 +47,5 @@ bld/
 .vs/
 
 #
-/Sample-Test1/
-/packages/
+/Test/Sample-Test1/*
+/Test/packages/*
